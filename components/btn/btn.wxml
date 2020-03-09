@@ -1,0 +1,5 @@
+<view class="btnBox">
+  <view bindtap="toTopFn"><text class="iconfont icon-huidaodingbu"></text></view>
+  <view bindtap="callFn"><text class="iconfont icon-dianhua"></text></view>
+  <view bindtap="jumpToMap"><text class="iconfont icon-ditu"></text></view>
+</view>

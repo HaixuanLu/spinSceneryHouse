@@ -1,0 +1,44 @@
+<view class="container">
+  <swiper autoplay interval="3000" circular indicator-dots indicator-color="#fff" indicator-active-color="#696969" bindchange="swiperFn">
+    <swiper-item><image mode="widthFix" src="https://pic1.58cdn.com.cn/anjuke_58/edccd9dff3f919c291ea7bdb4f2e04a7?w=696&h=522&crop=1&t=1&w=640&h=480&crop=1"></image></swiper-item>
+    <swiper-item><image mode="widthFix" src="https://pic1.58cdn.com.cn/anjuke_58/fa9fea294aab7cf4664574b57c11d275?w=696&h=522&crop=1&t=1&w=640&h=480&crop=1"></image></swiper-item>
+    <swiper-item><image mode="widthFix" src="https://pic1.58cdn.com.cn/anjuke_58/72844aaa3a37c68b86504d957c3e1a3e?w=696&h=522&crop=1&t=1&w=640&h=480&crop=1"></image></swiper-item>
+    <swiper-item><image mode="widthFix" src="https://pic1.58cdn.com.cn/anjuke_58/b6491545af454a96eb4117a185577822?w=696&h=522&crop=1&t=1&w=640&h=480&crop=1"></image></swiper-item>
+    <swiper-item><image mode="widthFix" src="https://pic1.58cdn.com.cn/anjuke_58/0619779953e7b8d6f151bc0e33f2d156?w=696&h=522&crop=1&t=1&w=640&h=480&crop=1"></image></swiper-item>
+    <swiper-item><image mode="widthFix" src="https://pic1.58cdn.com.cn/anjuke_58/db12cf8c2bea066f0f71af57e06ed411?w=696&h=522&crop=1&t=1&w=640&h=480&crop=1"></image></swiper-item>
+  </swiper>
+
+  <view class="block1">
+    <view class="top">
+      <view class="line"></view>
+      <view class="title">新品房源</view>
+      <view class="line"></view>
+    </view>
+  </view>
+  <view class="block2">
+    <view class="image">
+      <image mode="widthFix" src="https://ns-strategy.cdn.bcebos.com/ns-strategy/upload/fc_big_pic/part-00369-100.jpg"></image>
+    </view>
+    <view class="image">
+      <image mode="widthFix" src="https://ns-strategy.cdn.bcebos.com/ns-strategy/upload/fc_big_pic/part-00349-2285.jpg"></image>
+    </view>
+  </view>
+  <view class="block3">
+    <image mode="widthFix" src="http://img1.imgtn.bdimg.com/it/u=173430061,3916789332&fm=26&gp=0.jpg"></image>
+    <image mode="widthFix" src="http://img2.imgtn.bdimg.com/it/u=1139917441,3327050801&fm=26&gp=0.jpg"></image>
+  </view>
+  <view class="block4">
+    <view class="top">
+      <view class="line"></view>
+      <view class="title">热租房源</view>
+      <view class="line"></view>
+    </view>
+    <view class="bottom">
+      <image mode="widthFix" src="http://img5.imgtn.bdimg.com/it/u=1158386508,3499081167&fm=26&gp=0.jpg"></image>
+      <image mode="widthFix" src="http://img5.imgtn.bdimg.com/it/u=3958167686,374691103&fm=26&gp=0.jpg"></image>
+      <image mode="widthFix" src="http://img0.imgtn.bdimg.com/it/u=1217484667,2149977731&fm=26&gp=0.jpg"></image>
+      <image mode="widthFix" src="http://img2.imgtn.bdimg.com/it/u=1775882429,4048437661&fm=11&gp=0.jpg"></image>
+    </view>
+  </view>
+  <btn-component bind:totop="toTop"></btn-component>
+</view>

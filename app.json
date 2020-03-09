@@ -1,0 +1,50 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/category/category",
+    "pages/detail/detail", 
+    "pages/hot/hot",
+    "pages/new/new",
+    "pages/contact/contact",
+    "components/btn/btn",
+    "pages/map/map"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#d81e06",
+    "navigationBarTitleText": "旋景房",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "color": "#707070",
+    "selectedColor": "#d81e06",
+    "list": [{
+      "pagePath": "pages/home/home",
+      "text": "首页",
+      "iconPath": "image/shouye.png",
+      "selectedIconPath": "image/shouye1.png"
+    },{
+      "pagePath": "pages/category/category",
+      "text": "分类",
+      "iconPath": "image/fenlei.png",
+      "selectedIconPath": "image/fenlei1.png"
+    },{
+      "pagePath": "pages/hot/hot",
+      "text": "热租房源",
+      "iconPath": "image/rexiao.png",
+      "selectedIconPath": "image/rexiao1.png"
+    },{
+      "pagePath": "pages/new/new",
+      "text": "新品房源",
+      "iconPath": "image/xinpin.png",
+      "selectedIconPath": "image/xinpin1.png"
+    },{
+      "pagePath": "pages/contact/contact",
+      "text": "联系我们",
+      "iconPath": "image/lianxiwomen.png",
+      "selectedIconPath": "image/lianxiwomen1.png"
+    }]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

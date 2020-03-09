@@ -1,0 +1,34 @@
+.block4 {
+  background: #fff;
+  margin-bottom: 20rpx;
+}
+.block4 .top{
+  width: 100%;
+  height: 100rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  line-height: 100rpx;
+  border-bottom: 1px solid #ccc;
+}
+.block4 .top .line{
+  margin: 0rpx 15rpx 0 15rpx;
+  width: 10%;
+  background: #ccc;
+  height: 1px;
+}
+.block4 .bottom {
+  padding: 20rpx;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  
+}
+.block4 .bottom view {
+  width: 48%;
+  margin-bottom: 20rpx;
+}
+.block4 .bottom view image {
+  width: 100%;
+  border-radius: 6rpx;
+}

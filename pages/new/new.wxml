@@ -1,0 +1,56 @@
+<view class="container">
+  <view class="block">
+    <image mode="widthFix" src="https://ns-strategy.cdn.bcebos.com/ns-strategy/upload/fc_big_pic/part-00369-100.jpg"></image>
+    <view class="title">干净整洁 家具齐全 拎包入住</view>
+    <view class="bottom">
+      <view class="txt">干净整洁 家具齐全 拎包入住</view>
+      <!-- <button open-type="contact">立即咨询</button> -->
+      <view>
+        <button class="btn" size="mini" open-type="contact">立即咨询</button>
+      </view>
+    </view>
+  </view>
+  <view class="block">
+    <image mode="widthFix" src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=278038057,600373709&fm=26&gp=0.jpg"></image>
+    <view class="title">地处繁华地段 景色优美、炫丽</view>
+    <view class="bottom">
+      <view class="txt">地处繁华地段  景色优美、炫丽</view>
+      <view>
+        <button class="btn" size="mini" open-type="contact">立即咨询</button>
+      </view>
+    </view>
+  </view>
+  <view class="block">
+    <image mode="widthFix" src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=2086815504,2953199233&fm=26&gp=0.jpg"></image>
+    <view class="title">装修大方 高档次 环境超好</view>
+    <view class="bottom">
+      <view class="txt">装修大方 高档次 环境超好</view>
+      <view>
+        <button class="btn" size="mini" open-type="contact">立即咨询</button>
+      </view>
+    </view>
+  </view>
+  <view class="block">
+    <image mode="widthFix" src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1840318497,3652244568&fm=26&gp=0.jpg"></image>
+    <view class="title">三面环山 一面环水 别致别墅</view>
+    <view class="bottom">
+      <view class="txt">三面环山 一面环水 别致别墅</view>
+      <view>
+        <button class="btn" size="mini" open-type="contact">立即咨询</button>
+      </view>
+    </view>
+  </view>
+  <view class="block">
+    <image mode="widthFix" src="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3273332205,855822148&fm=26&gp=0.jpg"></image>
+    <view class="title">小区房 交通便利 家具齐全</view>
+    <view class="bottom">
+      <view class="txt">小区房 交通便利 家具齐全</view>
+      <view>
+        <button class="btn" size="mini" open-type="contact">立即咨询</button>
+      </view>
+    </view>
+  </view>
+  <view class="bottomTips">
+    亲，我可是有底线的喔~
+  </view>
+</view>

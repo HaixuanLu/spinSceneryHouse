@@ -1,0 +1,24 @@
+<view class="container">
+  <!-- <image mode="widthFix" src="http://img5.imgtn.bdimg.com/it/u=1158386508,3499081167&fm=26&gp=0.jpg"></image> -->
+  <swiper autoplay interval="3000" circular indicator-dots indicator-color="#fff" indicator-active-color="#696969">
+    <swiper-item><image mode="widthFix" src="https://pic1.58cdn.com.cn/anjuke_58/edccd9dff3f919c291ea7bdb4f2e04a7?w=696&h=522&crop=1&t=1&w=640&h=480&crop=1"></image></swiper-item>
+    <swiper-item><image mode="widthFix" src="https://pic1.58cdn.com.cn/anjuke_58/fa9fea294aab7cf4664574b57c11d275?w=696&h=522&crop=1&t=1&w=640&h=480&crop=1"></image></swiper-item>
+    <swiper-item><image mode="widthFix" src="https://pic1.58cdn.com.cn/anjuke_58/72844aaa3a37c68b86504d957c3e1a3e?w=696&h=522&crop=1&t=1&w=640&h=480&crop=1"></image></swiper-item>
+    <swiper-item><image mode="widthFix" src="https://pic1.58cdn.com.cn/anjuke_58/b6491545af454a96eb4117a185577822?w=696&h=522&crop=1&t=1&w=640&h=480&crop=1"></image></swiper-item>
+    <swiper-item><image mode="widthFix" src="https://pic1.58cdn.com.cn/anjuke_58/0619779953e7b8d6f151bc0e33f2d156?w=696&h=522&crop=1&t=1&w=640&h=480&crop=1"></image></swiper-item>
+    <swiper-item><image mode="widthFix" src="https://pic1.58cdn.com.cn/anjuke_58/db12cf8c2bea066f0f71af57e06ed411?w=696&h=522&crop=1&t=1&w=640&h=480&crop=1"></image></swiper-item>
+  </swiper>
+  <view class="box">
+    <view class="item">
+      <view class="title">公司总部</view>
+      <view class="infoDetail">地址: 广东省广州市天河区AAA街道AAA号AAA栋</view>
+      <view class="infoDetail">邮编: AAAAA</view>
+    </view>
+    <view class="item">
+      <view class="title">客服服务</view>
+      <view class="infoDetail">客服热线: 13026703941</view>
+      <view class="infoDetail">周一至周日: 9：00 ~ 18：00</view>
+      <view class="infoDetail">邮箱: 2206162221@qq.com</view>
+    </view>
+  </view>
+</view>

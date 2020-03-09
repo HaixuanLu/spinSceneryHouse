@@ -1,0 +1,102 @@
+<view class="container">
+  <view class="block4">
+    <view class="top">
+      <view class="line"></view>
+      <view class="title">时代倾城</view>
+      <view class="line"></view>
+    </view>
+    <view class="bottom">
+      <view>
+        <image mode="widthFix" src="http://img5.imgtn.bdimg.com/it/u=1158386508,3499081167&fm=26&gp=0.jpg"></image>
+        <text>好房子(代号00A1)</text>
+      </view>
+      <view>
+        <image mode="widthFix" src="http://img5.imgtn.bdimg.com/it/u=3958167686,374691103&fm=26&gp=0.jpg"></image>
+        <text>好房子(代号00A2)</text>
+      </view>
+      <view>
+        <image mode="widthFix" src="http://img0.imgtn.bdimg.com/it/u=1217484667,2149977731&fm=26&gp=0.jpg"></image>
+        <text>好房子(代号00A3)</text>
+      </view>
+      <view>
+        <image mode="widthFix" src="http://img2.imgtn.bdimg.com/it/u=1775882429,4048437661&fm=11&gp=0.jpg"></image>
+        <text>好房子(代号00A4)</text>
+      </view>
+    </view>
+  </view>
+  <view class="block4">
+    <view class="top">
+      <view class="line"></view>
+      <view class="title">花景苑</view>
+      <view class="line"></view>
+    </view>
+    <view class="bottom">
+      <view>
+        <image mode="widthFix" src="http://img4.imgtn.bdimg.com/it/u=1605203176,1407993144&fm=26&gp=0.jpg"></image>
+        <text>好房子(代号00B1)</text>
+      </view>
+      <view>
+        <image mode="widthFix" src="http://img2.imgtn.bdimg.com/it/u=3234195247,4091763221&fm=26&gp=0.jpg"></image>
+        <text>好房子(代号00B2)</text>
+      </view>
+      <view>
+        <image mode="widthFix" src="http://img0.imgtn.bdimg.com/it/u=1070296238,980755042&fm=26&gp=0.jpg"></image>
+        <text>好房子(代号00B3)</text>
+      </view>
+      <view>
+        <image mode="widthFix" src="http://img1.imgtn.bdimg.com/it/u=1325928374,2949152117&fm=26&gp=0.jpg"></image>
+        <text>好房子(代号00B4)</text>
+      </view>
+    </view>
+  </view>
+  <view class="block4">
+    <view class="top">
+      <view class="line"></view>
+      <view class="title">旋式楼房</view>
+      <view class="line"></view>
+    </view>
+    <view class="bottom">
+      <view>
+        <image mode="widthFix" src="http://img1.imgtn.bdimg.com/it/u=173430061,3916789332&fm=26&gp=0.jpg"></image>
+        <text>好房子(代号00C1)</text>
+      </view>
+      <view>
+        <image mode="widthFix" src="http://img2.imgtn.bdimg.com/it/u=1139917441,3327050801&fm=26&gp=0.jpg"></image>
+        <text>好房子(代号00C2)</text>
+      </view>
+      <view>
+        <image mode="widthFix" src="http://img0.imgtn.bdimg.com/it/u=3493855899,2387783263&fm=26&gp=0.jpg"></image>
+        <text>好房子(代号00C3)</text>
+      </view>
+      <view>
+        <image mode="widthFix" src="http://img4.imgtn.bdimg.com/it/u=2136264242,4161172110&fm=26&gp=0.jpg"></image>
+        <text>好房子(代号00C4)</text>
+      </view>
+    </view>
+  </view>
+  <view class="block4">
+    <view class="top">
+      <view class="line"></view>
+      <view class="title">安璀豪庭</view>
+      <view class="line"></view>
+    </view>
+    <view class="bottom">
+      <view>
+        <image mode="widthFix" src="http://img1.imgtn.bdimg.com/it/u=409953527,3594668114&fm=26&gp=0.jpg"></image>
+        <text>好房子(代号00D1)</text>
+      </view>
+      <view>
+        <image mode="widthFix" src="http://img0.imgtn.bdimg.com/it/u=3495848501,3354733373&fm=26&gp=0.jpg"></image>
+        <text>好房子(代号00D2)</text>
+      </view>
+      <view>
+        <image mode="widthFix" src="http://img5.imgtn.bdimg.com/it/u=3201944280,93416255&fm=26&gp=0.jpg"></image>
+        <text>好房子(代号00D3)</text>
+      </view>
+      <view>
+        <image mode="widthFix" src="http://img4.imgtn.bdimg.com/it/u=1940972435,4216463715&fm=26&gp=0.jpg"></image>
+        <text>好房子(代号00D4)</text>
+      </view>
+    </view>
+  </view>
+</view>
